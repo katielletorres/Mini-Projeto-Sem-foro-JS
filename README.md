@@ -1,1 +1,2 @@
-# Mini-Projeto-Sem-foro-JS
+# Mini-Projeto-Semaforo-JS
+## By Fernando Leonid
